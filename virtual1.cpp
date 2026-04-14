@@ -19,7 +19,6 @@ void display_dim() const //cannot change values
 {//length++;//not allowed when method is const
   cout<<"\n length & width "<<length<<width;
 }
-void display(){cout<<"\n i am rectangle display";}
 };
 int main()
 {//shape *s1,s2;
